@@ -1,1 +1,1 @@
-# Clone of theteacher.info
+# teacher
