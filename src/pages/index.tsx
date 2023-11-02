@@ -34,7 +34,7 @@ export default function Home() {
             </svg>
             <Link
               className="text-2xl text-gray-800 hover:text-blue-500 dark:text-white dark:hover:text-blue-300"
-              href="/Programming-Development"
+              href="https://theteacherfiles.rcn.sh/Programming-Development"
             >
               Programming and Development
             </Link>
@@ -57,7 +57,7 @@ export default function Home() {
             </svg>
             <Link
               className="text-2xl text-gray-800 hover:text-blue-500 dark:text-white dark:hover:text-blue-300"
-              href="/Architecture-data-comms-and-applications"
+              href="https://theteacherfiles.rcn.sh/Architecture-data-comms-and-applications"
             >
               Architecture
             </Link>
@@ -80,7 +80,7 @@ export default function Home() {
             </svg>
             <Link
               className="text-2xl text-gray-800 hover:text-blue-500 dark:text-white dark:hover:text-blue-300"
-              href="/Programmed-Solution"
+              href="https://theteacherfiles.rcn.sh/Programmed-Solution"
             >
               Programmed Solution to a Problem
             </Link>
@@ -105,7 +105,7 @@ export default function Home() {
             </svg>
             <Link
               className="text-2xl text-gray-800 hover:text-blue-500 dark:text-white dark:hover:text-blue-300"
-              href="/Database Handbook"
+              href="https://theteacherfiles.rcn.sh/Database Handbook"
             >
               Database Handbook
             </Link>
