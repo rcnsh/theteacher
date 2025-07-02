@@ -1,8 +1,9 @@
-import { type AppType } from "next/dist/shared/lib/utils";
+import { type AppType } from "next/app";
 
 import "@/styles/globals.css";
 
 import { Inter } from "next/font/google";
+import fontFamily from "tailwindcss/defaultTheme";
 
 const interFont = Inter({
   display: "swap",
